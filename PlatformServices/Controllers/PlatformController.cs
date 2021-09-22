@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;  
@@ -48,6 +49,8 @@ namespace PlatformServices.Controllers
             _repo.SaveChanges();
 
             var platformReadDto = _mapper.Map<PlatformReadDto>(mappedPlatform);
+
+            Console.WriteLine("POST OK");
 
             return CreatedAtRoute(nameof(GetPlatformById), new { Id = platformReadDto.Id}, platformReadDto);            
         }

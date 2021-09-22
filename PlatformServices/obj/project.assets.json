@@ -6038,19 +6038,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dzinz\\.nuget\\packages\\": {}
+    "C:\\Users\\mdrel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dzinz\\projects\\PlatformServices\\PlatformServices.csproj",
+      "projectUniqueName": "C:\\Users\\mdrel\\Documents\\projects\\platformservice-.net-microservices\\PlatformServices\\PlatformServices.csproj",
       "projectName": "PlatformServices",
-      "projectPath": "C:\\Users\\dzinz\\projects\\PlatformServices\\PlatformServices.csproj",
-      "packagesPath": "C:\\Users\\dzinz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dzinz\\projects\\PlatformServices\\obj\\",
+      "projectPath": "C:\\Users\\mdrel\\Documents\\projects\\platformservice-.net-microservices\\PlatformServices\\PlatformServices.csproj",
+      "packagesPath": "C:\\Users\\mdrel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mdrel\\Documents\\projects\\platformservice-.net-microservices\\PlatformServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dzinz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mdrel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6121,7 +6121,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
